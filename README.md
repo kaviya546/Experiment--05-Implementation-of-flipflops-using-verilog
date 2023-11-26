@@ -109,26 +109,69 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: KAVIYA SNEKA M
+
+RegisterNumber: 23003642
+
+Code:
+
+SR Flip Flop:
+
+![Exp5 srfp code](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/d55b489c-dff3-4459-b485-fa464ade72e9)
+
+JK Flip Flop:
+
+![Exp5 jkfp code](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/a51c6318-5279-4cac-84ff-57e80aeb7236)
+
+D Flip Flop:
+
+![Exp5 dfp code](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/95c4be00-8b92-4a0d-924b-989fee67dca9)
+
+T Flip Flop:
+
+![Exp5 tfp code](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/e697a6e8-6b79-4327-85a1-79a1e958ac7a)
+
+RTL Diagram :
+
+SR Flip Flop:
+
+![Exp5 srfp RTL diagram](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/3d8f60c8-acbd-49f1-b96f-6966c1e6498c)
+
+JK Flip Flop:
+
+![Exp5 jkfp RTL diagram](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/d5ebeb2d-f12f-48e2-9019-f987103dfd44)
+
+D Flip Flop:
+
+![Exp5 dfp RTL diagram](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/56b2cf0e-90e0-473d-a25b-e5f6d33fa68c)
+
+T Flip Flop:
+
+![Exp5 tfp RTL diagram](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/e680d8b9-4874-44b8-9625-88f4294b6ea1)
+
+Output:
+
+SR Flip Flops:
+
+![Exp3 sr wave](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/9f47f73e-2ed4-4e67-bac6-35cafc43d172)
+
+JK Flip Flops:
+
+![Exp3 jk wave](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/4753d23a-4dc3-48da-bd04-67f99a1ba2cf)
+
+D Flip Flop:
+
+![Exp3 d wave](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/cccb3021-81bf-458d-9a9c-32c7ecb857b9)
+
+T Flip Flop:
+
+![Exp3 t wave](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/16c4580f-cbf7-4ade-a7e9-9377a920c02e)
 
 
 
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
 
